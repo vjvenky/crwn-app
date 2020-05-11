@@ -1,8 +1,12 @@
 body {
-    padding: 20px 60px;
+  padding: 20px 60px;
 }
 
 a {
-    text-decoration: none;
-    color: #000000;
+  text-decoration: none;
+  color: #000000;
+}
+
+* {
+  box-sizing: border-box;
 }
